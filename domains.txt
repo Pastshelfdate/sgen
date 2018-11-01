@@ -8,6 +8,7 @@ environmental policy reform
 tort reform
 economic reform
 tax reform
+time-travel reform
 
 # academia
 computational linguistics
@@ -16,6 +17,8 @@ circuit analysis
 game theory
 trickle-down economics
 "modern" monetary theory
+tenure-motivated grandstanding
+
 
 # sociology & psychology
 third-wave feminism
@@ -23,6 +26,7 @@ object permanence
 heteronormativity
 cultural appropriation
 identity politics
+neurodiversity
 
 # sports
 e-sports
@@ -36,6 +40,8 @@ college football
 basketball
 tennis
 hockey
+quidich
+frisbee golf
 
 # legal, diplomacy, bureaucracy, business
 maritime law
@@ -52,6 +58,7 @@ wage garnishment
 the municipal bond market
 copyright law
 
+
 # business
 project management
 operations management
@@ -62,6 +69,7 @@ information technology
 marketing
 securities fraud
 compliance testing
+labor productivity
 
 # applied science
 traffic engineering
@@ -70,6 +78,7 @@ data analytics
 food microbiology
 cryogenics
 spaceflight
+behavioral economics
 
 # health & wellness
 clinical psychology
@@ -82,6 +91,7 @@ pharmaceutical testing
 laser eye surgery
 sexual wellbeing
 neurosurgery
+group therapy
 
 # art & metaphysics
 art history
@@ -91,6 +101,9 @@ metaphysics
 performance art
 neoclassical architecture
 existentialism
+post-modernist
+post-modernism
+post-post-modernism
 
 # negative affect
 money laundering
@@ -102,6 +115,8 @@ predatory lending
 organ harvesting
 human trafficking
 drug trafficking
+puppy factory
+
 
 # computer & internet
 system administration
@@ -122,6 +137,7 @@ quantum computing
 computational genomics
 web development
 team collaboration tools
+helping parents with technology
 
 # blue-collar occupations
 lawn care
