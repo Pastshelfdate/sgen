@@ -14,3 +14,7 @@ a web scale
 a blazing fast
 a component-based
 a painless
+a comfortably slow
+a less confusing
+a stupifying
+a 
