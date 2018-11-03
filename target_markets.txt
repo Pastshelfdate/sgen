@@ -11,6 +11,11 @@ pigs
 monkeys
 birds
 snakes
+cryptids
+chipmunks
+hamsters
+jerbils
+rats
 
 # nerds
 the technically competent
@@ -24,6 +29,14 @@ Bitcoin enthusiasts
 crypto enthusiasts
 IRC bots
 startup evangelists
+tabletop gamers
+role-players
+sports statistics enthusiasts
+solar-powered car hackers
+phone phreakers
+LARPers
+Magic players
+
 
 # hyper-specific age groups
 tweens
@@ -32,6 +45,9 @@ gen x
 gen y
 millennials
 baby boomers
+children of the corn
+gen z
+
 
 # "normal" folk
 upper-middle class families
@@ -42,6 +58,12 @@ motorcyclists
 reasonable folk
 minivan-drivers
 carpoolers
+home gardeners
+farmers
+retail clerks
+bicyclists
+silent majority
+
 
 # the silly upper class
 penpals
@@ -49,16 +71,28 @@ the enlightened
 the bourgeoisie
 nouveau-riche
 the 1%
+the Mont Blanc pen market
+the Rollex market
+the luxury SUV market
+
+
 
 # the silly lower class
 the unemployed
 the "urban market"
+late-entry network marketing reps
+people who really can't afford not to understand unit pricing
+people who buy cigarettes one at a time
+people who buy more lottery tickets than they can afford
+
 
 # (e-) sports
 sports fans
 athletes
 e-sports spectators
 e-sports "athletes"
+soccer hooligans
+football widows
 
 # ideological groups
 self-righteous vegans
@@ -71,6 +105,19 @@ narcissists
 Kanye West fans
 bullies
 drunk fratboys
+raw water enthusiasts
+Juggalos
+ultra-conservatives
+ultra-liberals
+alt right
+socialists
+John Birchers
+Tea Party members
+Emacs partisans
+Vim partisans
+Mac Loonies
+Windows Fanatics
+Unix Jihadis
 cagers
 right-wing fanatics
 Ayn Rand fanatics
@@ -91,6 +138,10 @@ your drunk uncle
 your absent father
 your hardworking cousin
 your busy mother-in-law
+your paranoid uncle
+your dry drunk dad
+your wonderful grandad
+your chain-smoking grandmother
 
 # old folks
 the elderly
@@ -102,3 +153,8 @@ kids who won't stay off my lawn
 people who don't understand the internet
 hunt-and-peck typists
 strangely attractive old people
+regular voters
+coupon clippers
+smokers on bottled oxygen
+people who still use land lines
+people who still use typewriters

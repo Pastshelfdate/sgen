@@ -25,6 +25,16 @@ MapQuest
 Shazam
 FriendFeed
 WhatsApp
+Trans World Airlines
+The Pony Express
+Pets.com
+Geocities
+AskJeeves.com
+Earthlink
+Circuit City
+DivX
+Radio Shack
+Richmond News Leader
 WinZip
 WebMD
 ChristianMingle
@@ -58,3 +68,9 @@ RealPlayer
 SpaceX
 Juicero
 Chegg
+Sears
+Kmart
+Waze
+Compaq
+Wang
+Tandy
